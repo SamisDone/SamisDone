@@ -12,7 +12,7 @@
 ## Right now
 
 - **Looking for** job opportunities in software engineering and ML: remote, or on site after I graduate in 2027.
-- **Doing** my industrial attachment at BdREN Innovation - Cortex, 3 to 23 September 2026.
+- **Leading** the crawler team on my industrial attachment at [BdREN Innovation - Cortex](https://github.com/BdREN-Innovation/Cortex), 3 to 23 September 2026. I built the CUET scraper: 735 documents, 382 faculty profiles and 1,106 linked files, each traced back to its source.
 - **Writing** my undergraduate thesis on grapheme-aware Bangla and English scene text recognition.
 - **Just finished** a contract at Fleet AI, writing and reviewing long-horizon evaluation tasks for AI agents.
 
