@@ -1,25 +1,28 @@
-<h1 align="center">Hi 👋, I'm Samonwita Sarker</h1>
-<h3 align="center">A Computer Science student from Bangladesh.</h3>
+## Samonwita Sarker
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samisdone&label=Profile%20views&color=0e75b6&style=flat" alt="samisdone" /> </p>
+CSE '27 at CUET, Bangladesh. I build full-stack software that ships, and I research explainable AI and NLP.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samisdone" alt="samisdone" /></a> </p>
+**Looking for full-time software engineering and ML roles:** remote, or on site after graduating in 2027.
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamisDone?tab=repositories](https://github.com/SamisDone?tab=repositories)
+**Portfolio:** [samonwita.vercel.app](https://samonwita.vercel.app) · **CV:** [PDF](https://samonwita.vercel.app/Samonwita_Sarker_CV.pdf) · **Email:** sarker.samonwita@gmail.com
 
-- 📫 How to reach me **sarker.samonwita@gmail.com**
+### Proof
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samonwita-sarker-a87737262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samonwita-sarker-a87737262/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/jinxed_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/jinxed_sam" height="30" width="40" /></a>
-</p>
+- **2 Chrome extensions** on the Web Store: [RIPHours](https://chromewebstore.google.com/detail/riphours/iagjeekneaalapjnnofnifleaiondbbb) and [TabSaver](https://chromewebstore.google.com/detail/tabsaver/emjeegpjecaljggipjdaofmlkoolikdk)
+- **IEEE ICECTE 2026:** [explainable AI with SHAP for multiclass police fraud prediction](https://ieeexplore.ieee.org/document/11429440)
+- **ACL 2026, first author:** [Telugu prompt-style recovery](https://aclanthology.org/2026.dravidianlangtech-1.58/), 7th at the DravidianLangTech shared task
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Selected projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samisdone&show_icons=true&locale=en&layout=compact" alt="samisdone" /></p>
+| Project | What it is | Links |
+|---|---|---|
+| [MediHub](https://github.com/SamisDone/AI-Powered-Hospital-Management-System) | Hospital management with Gemini-written summaries of medical reports and three separate roles | [Live](https://ai-powered-hospital-management-syst.vercel.app/) |
+| [RIPHours](https://github.com/SamisDone/RIPHours) | A time tracker that makes no network requests, so your browsing history stays on your machine | [Web Store](https://chromewebstore.google.com/detail/riphours/iagjeekneaalapjnnofnifleaiondbbb) |
+| [PIERRA](https://github.com/SamisDone/Pierra) | Paid client work: a bilingual site for a Montreal exterior design firm | [Live](https://pierrafinal.vercel.app/) |
+| [Greenlight](https://github.com/SamisDone/GreenLight-IUT-Techathon-Hackathon) | A robot arm you drive in the browser, six ways, through one motion pipeline | [Live](https://greenlight-ptsd.vercel.app/) |
+| [TabSaver](https://github.com/SamisDone/TabSaver-New) | Restores a whole working session, tab groups intact, in one click | [Web Store](https://chromewebstore.google.com/detail/tabsaver/emjeegpjecaljggipjdaofmlkoolikdk) |
+| [ResumeForge](https://github.com/SamisDone/ResumeForge) | A resume builder with live preview and in-browser PDF export | [Live](https://resumeforge-sam.netlify.app/) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samisdone&show_icons=true&locale=en" alt="samisdone" /></p>
+**Stack:** TypeScript, JavaScript, Python, C++, SQL · React, Next.js, Tailwind CSS · Node.js, PostgreSQL, Firebase · PyTorch, scikit-learn, SHAP, Transformers
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samisdone&" alt="samisdone" /></p>
+[LinkedIn](https://www.linkedin.com/in/samonwita-sarker-a87737262/) · [Codeforces](https://codeforces.com/profile/jinxed_sam)
