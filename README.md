@@ -1,20 +1,27 @@
 <a href="https://samonwitasarker.pages.dev">
-  <img src="assets/banner.svg" width="100%" alt="Samonwita Sarker. CSE '27 at CUET, open to job opportunities. I build software that ships, and I research how to make a model's predictions explainable. 2 Chrome extensions on the Web Store, a peer-reviewed IEEE paper, 7th at an ACL 2026 shared task, 9 projects live.">
+  <img src="assets/hello.svg" width="100%" alt="A paper case file with an orange tab waves hello beside a speech bubble that types: Hi, I'm Samonwita. Under it: CSE '27, CUET, open to SWE and ML roles. I build software that ships, and I research how to make a model's predictions explainable.">
 </a>
 
 <p align="center">
-  <a href="https://samonwitasarker.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-samonwitasarker.pages.dev-C91C7A?style=for-the-badge&labelColor=200c27"></a>
-  <a href="https://samonwitasarker.pages.dev/Samonwita_Sarker_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download_PDF-FFCA06?style=for-the-badge&labelColor=200c27"></a>
-  <a href="https://www.linkedin.com/in/samonwita-sarker-a87737262/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-68097E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=200c27"></a>
-  <a href="mailto:sarker.samonwita@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Write_to_me-E8675C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=200c27"></a>
+  <a href="https://samonwitasarker.pages.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-samonwitasarker.pages.dev-FF5A1F?style=for-the-badge&labelColor=111111"></a>
+  <a href="https://samonwitasarker.pages.dev/Samonwita_Sarker_CV.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download_PDF-FFE14D?style=for-the-badge&labelColor=111111"></a>
+  <a href="https://www.linkedin.com/in/samonwita-sarker-a87737262/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-4C8DFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"></a>
+  <a href="mailto:sarker.samonwita@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Write_to_me-22C06A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111"></a>
 </p>
+
+I study Computer Science and Engineering at CUET in Chattogram, Bangladesh, and
+graduate in 2027. Half my time goes to building software and the other half to
+research on explainable AI and NLP. I like problems where the engineering and
+the reasoning both have to hold up: a model whose predictions you can defend, an
+extension that keeps a promise about your privacy, a schema that stays correct
+as it grows.
 
 ## Right now
 
-- **Looking for** job opportunities in software engineering and ML: remote, or on site after I graduate in 2027.
-- **Leading** the crawler team on my industrial attachment at [BdREN Innovation - Cortex](https://github.com/BdREN-Innovation/Cortex), 3 to 23 September 2026. I built the CUET scraper: 735 documents, 382 faculty profiles and 1,106 linked files, each traced back to its source.
-- **Writing** my undergraduate thesis on grapheme-aware Bangla and English scene text recognition.
-- **Just finished** a contract at Fleet AI, writing and reviewing long-horizon evaluation tasks for AI agents.
+- **Looking for** software engineering and ML roles: remote, or on site after I graduate in 2027.
+- **Writing** my undergraduate thesis on grapheme-aware Bangla and English scene text recognition: reading text off photographs where Bangla and Latin script share a frame.
+- **Just led** the five-person crawler team on my industrial attachment at [Cortex, BdREN Innovation](https://github.com/BdREN-Innovation/Cortex), 3 to 21 September 2026. I built the CUET scraper: 735 documents, 382 faculty profiles and 1,106 linked files, each traced back to its source.
+- **Before that,** May to August 2026, I wrote 70+ evaluation tasks for agentic AI at Fleet AI, and reviewed other contributors' tasks before they shipped.
 
 ## Selected work
 
@@ -23,7 +30,7 @@
     <td width="50%" valign="top">
       <a href="https://greenlight-ptsd.vercel.app/"><img src="assets/greenlight.gif" width="100%" alt="Greenlight: pressing keys 1, 5, 3 and 6 sends the simulated robot arm to touch each key on the keypad."></a>
       <h3><a href="https://github.com/SamisDone/GreenLight-IUT-Techathon-Hackathon">Greenlight</a></h3>
-      A robot arm you drive in the browser, six different ways, through one motion pipeline. I wrote the kinematics, the safety gate and every input path.<br><br>
+      A robot arm you drive in the browser, six different ways, through one motion pipeline. I wrote the kinematics, the safety gate and every input path. Finalist at IUT Techathon 2026.<br><br>
       <code>Next.js</code> <code>Three.js</code> <code>TypeScript</code> <code>Gemini API</code><br><br>
       <a href="https://greenlight-ptsd.vercel.app/">Live</a> · <a href="https://github.com/SamisDone/GreenLight-IUT-Techathon-Hackathon">Code</a> · <a href="https://samonwitasarker.pages.dev/work/greenlight">Case study</a>
     </td>
@@ -55,16 +62,16 @@
     <td width="50%" valign="top">
       <a href="https://chromewebstore.google.com/detail/riphours/iagjeekneaalapjnnofnifleaiondbbb"><img src="assets/riphours.webp" width="100%" alt="RIPHours: time breakdown by site, daily limits and settings."></a>
       <h3><a href="https://github.com/SamisDone/RIPHours">RIPHours</a></h3>
-      A Chrome extension that tracks your browsing time and makes no network requests, so your history stays on your machine.<br><br>
+      A Chrome extension that tracks your browsing time and makes no network requests, so your history stays on your machine. 500+ installs.<br><br>
       <code>JavaScript</code> <code>Chrome APIs</code><br><br>
-      <a href="https://chromewebstore.google.com/detail/riphours/iagjeekneaalapjnnofnifleaiondbbb">Chrome Web Store</a> · <a href="https://github.com/SamisDone/RIPHours">Code</a>
+      <a href="https://chromewebstore.google.com/detail/riphours/iagjeekneaalapjnnofnifleaiondbbb">Chrome Web Store</a> · <a href="https://github.com/SamisDone/RIPHours">Code</a> · <a href="https://samonwitasarker.pages.dev/work/riphours">Case study</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://chromewebstore.google.com/detail/tabsaver/emjeegpjecaljggipjdaofmlkoolikdk"><img src="assets/tabsaver.webp" width="100%" alt="TabSaver: the panel listing a saved session and its tabs."></a>
       <h3><a href="https://github.com/SamisDone/TabSaver-New">TabSaver</a></h3>
-      A Chrome extension that saves and restores a whole working session, tab groups intact, in one click.<br><br>
+      A Chrome extension that saves and restores a whole working session, tab groups intact, in one click. 700+ installs.<br><br>
       <code>JavaScript</code> <code>Chrome APIs</code><br><br>
-      <a href="https://chromewebstore.google.com/detail/tabsaver/emjeegpjecaljggipjdaofmlkoolikdk">Chrome Web Store</a> · <a href="https://github.com/SamisDone/TabSaver-New">Code</a>
+      <a href="https://chromewebstore.google.com/detail/tabsaver/emjeegpjecaljggipjdaofmlkoolikdk">Chrome Web Store</a> · <a href="https://github.com/SamisDone/TabSaver-New">Code</a> · <a href="https://samonwitasarker.pages.dev/work/tabsaver">Case study</a>
     </td>
   </tr>
 </table>
@@ -72,25 +79,37 @@
 ## Research
 
 - **ACL 2026, first author.** [Still Loading@DravidianLangTech 2026: Telugu Prompt-Style Recovery using Multilingual Transformers](https://aclanthology.org/2026.dravidianlangtech-1.58/). Placed 7th in the shared task. [Code](https://github.com/Priyontee1713/Still-Loading-Prompt-Recovery-for-LLM-in-Telugu)
-- **IEEE ICECTE 2026.** [A Machine Learning and Explainable AI-Based Multiclass Police Fraud Prediction Scheme with SHAP Based Interpretability](https://ieeexplore.ieee.org/document/11429440)
+- **IEEE ICECTE 2026, peer reviewed.** [A Machine Learning and Explainable AI-Based Multiclass Police Fraud Prediction Scheme with SHAP Based Interpretability](https://ieeexplore.ieee.org/document/11429440). Every prediction comes with its SHAP attribution, so a flagged case traces back to the features that drove it.
+
+## The portfolio
+
+<a href="https://samonwitasarker.pages.dev"><img src="https://raw.githubusercontent.com/SamisDone/Professional-Portfolio-SST/main/docs/home-first-load.webp" width="100%" alt="The portfolio's home page loading: the tabs drop into place, orange tape goes down behind the name while each letter is read into place, and the proof figures print like a receipt."></a>
+
+Built on one idea: every claim carries its receipt. Every number on it links to
+whatever proves it, and every project picture is the real, running product.
+[See it live](https://samonwitasarker.pages.dev) or
+[read how it's made](https://github.com/SamisDone/Professional-Portfolio-SST).
 
 ## Toolbox
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3F194D?style=flat-square&logo=typescript&logoColor=FFCA06">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-3F194D?style=flat-square&logo=javascript&logoColor=FFCA06">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3F194D?style=flat-square&logo=python&logoColor=FFCA06">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3F194D?style=flat-square&logo=cplusplus&logoColor=FFCA06">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-3F194D?style=flat-square&logo=databricks&logoColor=FFCA06">
-  <img alt="React" src="https://img.shields.io/badge/React-3F194D?style=flat-square&logo=react&logoColor=FFCA06">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-3F194D?style=flat-square&logo=nextdotjs&logoColor=FFCA06">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-3F194D?style=flat-square&logo=tailwindcss&logoColor=FFCA06">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-3F194D?style=flat-square&logo=nodedotjs&logoColor=FFCA06">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-3F194D?style=flat-square&logo=postgresql&logoColor=FFCA06">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-3F194D?style=flat-square&logo=firebase&logoColor=FFCA06">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-3F194D?style=flat-square&logo=pytorch&logoColor=FFCA06">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-3F194D?style=flat-square&logo=scikitlearn&logoColor=FFCA06">
-  <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Transformers-3F194D?style=flat-square&logo=huggingface&logoColor=FFCA06">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=FFE14D">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=FFE14D">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=FFE14D">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=FFE14D">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=databricks&logoColor=FFE14D">
+  <img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=FFE14D">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=FFE14D">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=FFE14D">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=FFE14D">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=FFE14D">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=FFE14D">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=FFE14D">
+  <img alt="SHAP" src="https://img.shields.io/badge/SHAP-111111?style=flat-square">
+  <img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Transformers-111111?style=flat-square&logo=huggingface&logoColor=FFE14D">
 </p>
 
-<p align="center"><sub>Every GIF above is a recording of the live project. All 25 projects, with source, are listed at <a href="https://samonwitasarker.pages.dev/repositories">samonwitasarker.pages.dev/repositories</a>.</sub></p>
+Away from the keyboard I'm President of the CUET MUN Club and Joint General
+Secretary of the CUET Debating Society.
+
+<p align="center"><sub>Every GIF above is a recording of the live project. All 27 projects, with source, are listed at <a href="https://samonwitasarker.pages.dev/repositories">samonwitasarker.pages.dev/repositories</a>.</sub></p>
